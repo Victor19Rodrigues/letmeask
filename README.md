@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/print-home.svg" />
+    <img alt="Letmeask" title="Letmeask" src=".github/print-home.png" />
 </h1>
 
 <br>
