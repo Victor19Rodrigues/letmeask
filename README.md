@@ -58,4 +58,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made with 💜 by Victor Rodrigues</p>
+<p align="center">Made with ❤️ by Victor Rodrigues</p>
